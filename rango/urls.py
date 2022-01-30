@@ -1,4 +1,3 @@
-from os import pardir
 from django.urls import path
 from rango import views
 
